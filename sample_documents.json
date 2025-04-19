@@ -1,0 +1,1102 @@
+[
+    {
+        "Id": 1,
+        "DocData": {
+            "type": "report",
+            "documentId": "3c7fa571-ba7a-481b-bf5b-4d97fd853796",
+            "createdAt": "2025-04-19T08:21:40.613072Z",
+            "amount": 3568,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 2,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "02f0b4e8-5802-4b30-bc83-6d2ad7491277",
+            "createdAt": "2025-04-19T08:21:40.613276Z",
+            "amount": 8091,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 3,
+        "DocData": {
+            "type": "report",
+            "documentId": "49e0b6d4-c175-45ca-9ed8-8a56723d6314",
+            "createdAt": "2025-04-19T08:21:40.613422Z",
+            "amount": 7278,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 4,
+        "DocData": {
+            "type": "statement",
+            "documentId": "48e9f79e-1ef1-44f6-8229-83f82f2916be",
+            "createdAt": "2025-04-19T08:21:40.613576Z",
+            "amount": 7142,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 5,
+        "DocData": {
+            "type": "report",
+            "documentId": "c46b632b-27cc-47ae-a8c7-4252f164697f",
+            "createdAt": "2025-04-19T08:21:40.613658Z",
+            "amount": 9423,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 6,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "4cd816a5-e19a-4775-9dbb-b392ec72f7a2",
+            "createdAt": "2025-04-19T08:21:40.614018Z",
+            "amount": 636,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 7,
+        "DocData": {
+            "type": "report",
+            "documentId": "bdc43708-78a1-424a-a5aa-85c0f096af82",
+            "createdAt": "2025-04-19T08:21:40.614202Z",
+            "amount": 8301,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 8,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "c9b6068c-13e3-4874-8986-0bcab7978848",
+            "createdAt": "2025-04-19T08:21:40.614232Z",
+            "amount": 8706,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 9,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "9268746e-c186-46e0-abcd-3832e3e501a7",
+            "createdAt": "2025-04-19T08:21:40.614258Z",
+            "amount": 2976,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 10,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "fd862c30-578f-4153-982c-113043f7f79e",
+            "createdAt": "2025-04-19T08:21:40.614278Z",
+            "amount": 2585,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 11,
+        "DocData": {
+            "type": "statement",
+            "documentId": "4080df45-c425-4a8b-885d-f4d69f683678",
+            "createdAt": "2025-04-19T08:21:40.614289Z",
+            "amount": 4142,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 12,
+        "DocData": {
+            "type": "contract",
+            "documentId": "58ca01f3-4c06-4ae5-bad4-1968cc14d317",
+            "createdAt": "2025-04-19T08:21:40.614299Z",
+            "amount": 7325,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 13,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "f1a5b83d-2dea-4f8a-95e2-fbfcb9b95707",
+            "createdAt": "2025-04-19T08:21:40.614309Z",
+            "amount": 5444,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 14,
+        "DocData": {
+            "type": "report",
+            "documentId": "60b6efb5-82dc-4deb-87bc-7ba4f3a87eea",
+            "createdAt": "2025-04-19T08:21:40.614320Z",
+            "amount": 7156,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 15,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "cce8d894-4802-4e96-b932-cb4807f3dcc6",
+            "createdAt": "2025-04-19T08:21:40.614331Z",
+            "amount": 7654,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 16,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "134d3fc5-f44d-4fae-a44a-c705577da446",
+            "createdAt": "2025-04-19T08:21:40.614377Z",
+            "amount": 9344,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 17,
+        "DocData": {
+            "type": "statement",
+            "documentId": "3635148c-1ecf-413a-9eb3-f7f167370770",
+            "createdAt": "2025-04-19T08:21:40.614387Z",
+            "amount": 9507,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 18,
+        "DocData": {
+            "type": "contract",
+            "documentId": "2a326325-cf11-4b1f-a735-9a1b3c70377f",
+            "createdAt": "2025-04-19T08:21:40.614398Z",
+            "amount": 942,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 19,
+        "DocData": {
+            "type": "contract",
+            "documentId": "b03a7f38-3b7a-47d7-a0e7-cf0df26608ad",
+            "createdAt": "2025-04-19T08:21:40.614410Z",
+            "amount": 9167,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 20,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "3cec0e3c-d75a-41ca-8785-f5b2cea95d38",
+            "createdAt": "2025-04-19T08:21:40.614426Z",
+            "amount": 687,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 21,
+        "DocData": {
+            "type": "report",
+            "documentId": "ceddb8d0-194a-4145-8f07-0d7bf1cbab34",
+            "createdAt": "2025-04-19T08:21:40.614441Z",
+            "amount": 4715,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 22,
+        "DocData": {
+            "type": "statement",
+            "documentId": "52140298-5379-4143-bdc4-e9996bb7999a",
+            "createdAt": "2025-04-19T08:21:40.614452Z",
+            "amount": 5451,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 23,
+        "DocData": {
+            "type": "contract",
+            "documentId": "b176141a-99f8-432c-967c-1d6eeb0171e1",
+            "createdAt": "2025-04-19T08:21:40.614462Z",
+            "amount": 7674,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 24,
+        "DocData": {
+            "type": "report",
+            "documentId": "16bb0064-ba30-4c66-a71d-46e7cc43a9ce",
+            "createdAt": "2025-04-19T08:21:40.614472Z",
+            "amount": 1261,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 25,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "a73a50f3-7ca8-4574-9900-a5691bd6a9d4",
+            "createdAt": "2025-04-19T08:21:40.614486Z",
+            "amount": 5665,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 26,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "0bed16a1-d83f-4bcf-b55e-646bfdb6b3a9",
+            "createdAt": "2025-04-19T08:21:40.614512Z",
+            "amount": 8927,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 27,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "9cc7e66f-f0c4-4783-968f-2e5c067ec1e4",
+            "createdAt": "2025-04-19T08:21:40.614522Z",
+            "amount": 4646,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 28,
+        "DocData": {
+            "type": "statement",
+            "documentId": "f00bf021-c635-4b86-bf4a-f55be9e1ef31",
+            "createdAt": "2025-04-19T08:21:40.614633Z",
+            "amount": 5703,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 29,
+        "DocData": {
+            "type": "statement",
+            "documentId": "b8de2bf4-265e-41d5-a682-8cc944c5a49b",
+            "createdAt": "2025-04-19T08:21:40.614696Z",
+            "amount": 4167,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 30,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "812bcc85-6807-4152-b7ca-382544c147a3",
+            "createdAt": "2025-04-19T08:21:40.614714Z",
+            "amount": 5045,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 31,
+        "DocData": {
+            "type": "report",
+            "documentId": "a05d2f84-f356-451b-ad3b-28ced0e4ffd8",
+            "createdAt": "2025-04-19T08:21:40.614730Z",
+            "amount": 2290,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 32,
+        "DocData": {
+            "type": "report",
+            "documentId": "8834168c-b634-4022-80b1-84a54649b490",
+            "createdAt": "2025-04-19T08:21:40.614975Z",
+            "amount": 7549,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 33,
+        "DocData": {
+            "type": "statement",
+            "documentId": "496b584c-f94c-4982-89da-72a6eb6f5218",
+            "createdAt": "2025-04-19T08:21:40.615033Z",
+            "amount": 8552,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 34,
+        "DocData": {
+            "type": "contract",
+            "documentId": "d131b8c8-3ad5-49c7-a460-f388ebf4ceac",
+            "createdAt": "2025-04-19T08:21:40.615064Z",
+            "amount": 7108,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 35,
+        "DocData": {
+            "type": "statement",
+            "documentId": "be21d4ab-93d7-4d0d-9456-164ec50959b9",
+            "createdAt": "2025-04-19T08:21:40.615075Z",
+            "amount": 4568,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 36,
+        "DocData": {
+            "type": "statement",
+            "documentId": "e8266324-9350-414d-8724-e31f0319b35c",
+            "createdAt": "2025-04-19T08:21:40.615103Z",
+            "amount": 431,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 37,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "2c58d3fa-d085-420a-a3c1-f5161234ee97",
+            "createdAt": "2025-04-19T08:21:40.615115Z",
+            "amount": 2349,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 38,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "fc5cf158-12e2-45c2-a714-83edf7df59b8",
+            "createdAt": "2025-04-19T08:21:40.615131Z",
+            "amount": 1206,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 39,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "2dff212c-6077-4e6e-89eb-ea1e7ea36201",
+            "createdAt": "2025-04-19T08:21:40.615152Z",
+            "amount": 3443,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 40,
+        "DocData": {
+            "type": "contract",
+            "documentId": "2582ae13-2f52-42ae-9e3c-47328425581c",
+            "createdAt": "2025-04-19T08:21:40.615171Z",
+            "amount": 8939,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 41,
+        "DocData": {
+            "type": "report",
+            "documentId": "caa47faa-afa6-4c5e-b2ce-c5adf5bb1fce",
+            "createdAt": "2025-04-19T08:21:40.615180Z",
+            "amount": 6006,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 42,
+        "DocData": {
+            "type": "contract",
+            "documentId": "69aae53a-261a-40c8-b8ff-ba743b6fb749",
+            "createdAt": "2025-04-19T08:21:40.615196Z",
+            "amount": 8713,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 43,
+        "DocData": {
+            "type": "report",
+            "documentId": "20d6db49-e8b4-4598-ac9e-5c7f0bcd6695",
+            "createdAt": "2025-04-19T08:21:40.615215Z",
+            "amount": 6102,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 44,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "310ebd3c-aa37-459d-b21e-15b6f4e85291",
+            "createdAt": "2025-04-19T08:21:40.615227Z",
+            "amount": 8862,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 45,
+        "DocData": {
+            "type": "report",
+            "documentId": "c7c0e8c9-0e30-4865-ac28-e43bbe20f7f5",
+            "createdAt": "2025-04-19T08:21:40.615258Z",
+            "amount": 6579,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 46,
+        "DocData": {
+            "type": "statement",
+            "documentId": "acf64ae2-7753-496d-902d-9f16c2c85956",
+            "createdAt": "2025-04-19T08:21:40.615273Z",
+            "amount": 8079,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 47,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "55c13b26-9899-4645-b0b5-32a30d887136",
+            "createdAt": "2025-04-19T08:21:40.615286Z",
+            "amount": 3288,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 48,
+        "DocData": {
+            "type": "statement",
+            "documentId": "db750b1f-1556-4523-a56b-66af45bc29df",
+            "createdAt": "2025-04-19T08:21:40.615301Z",
+            "amount": 6256,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 49,
+        "DocData": {
+            "type": "contract",
+            "documentId": "d07987b7-a1da-41e1-932a-643410caf0c2",
+            "createdAt": "2025-04-19T08:21:40.615324Z",
+            "amount": 8638,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 50,
+        "DocData": {
+            "type": "statement",
+            "documentId": "07a2b53a-944e-40ec-bd88-cce7967888b4",
+            "createdAt": "2025-04-19T08:21:40.615335Z",
+            "amount": 7931,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 51,
+        "DocData": {
+            "type": "contract",
+            "documentId": "e301c35a-53d1-4725-a64f-6532f3b279a1",
+            "createdAt": "2025-04-19T08:21:40.615345Z",
+            "amount": 9566,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 52,
+        "DocData": {
+            "type": "contract",
+            "documentId": "96a21d93-fc0d-46a7-8ee6-efd5ae33ca9b",
+            "createdAt": "2025-04-19T08:21:40.615354Z",
+            "amount": 7721,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 53,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "72819271-94ba-4482-9cc5-6c0e67d0fed1",
+            "createdAt": "2025-04-19T08:21:40.615376Z",
+            "amount": 5578,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 54,
+        "DocData": {
+            "type": "contract",
+            "documentId": "3c99efb5-1de2-4978-bb24-2a371e757119",
+            "createdAt": "2025-04-19T08:21:40.615484Z",
+            "amount": 707,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 55,
+        "DocData": {
+            "type": "report",
+            "documentId": "b33af6cb-616c-458f-8f78-583555b04526",
+            "createdAt": "2025-04-19T08:21:40.615527Z",
+            "amount": 6211,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 56,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "28d0b33e-079b-4174-b0ae-7451750e8ab9",
+            "createdAt": "2025-04-19T08:21:40.615539Z",
+            "amount": 7180,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 57,
+        "DocData": {
+            "type": "report",
+            "documentId": "18ad64b3-4452-462e-b9ba-ec343c55a6b3",
+            "createdAt": "2025-04-19T08:21:40.615552Z",
+            "amount": 5787,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 58,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "ebbefe8d-2993-4fdc-96ca-83cebb23ce5a",
+            "createdAt": "2025-04-19T08:21:40.615582Z",
+            "amount": 5633,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 59,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "c81f1d15-6d36-4efa-ae5c-df9bfee31f2c",
+            "createdAt": "2025-04-19T08:21:40.615592Z",
+            "amount": 8137,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 60,
+        "DocData": {
+            "type": "report",
+            "documentId": "44e0fa89-9205-499a-98f0-2c4040e5f178",
+            "createdAt": "2025-04-19T08:21:40.615624Z",
+            "amount": 1470,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 61,
+        "DocData": {
+            "type": "report",
+            "documentId": "95775b87-c39d-4ea2-b417-044bbe18f94e",
+            "createdAt": "2025-04-19T08:21:40.615635Z",
+            "amount": 7122,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 62,
+        "DocData": {
+            "type": "report",
+            "documentId": "ee3a48dc-a1fe-44a8-8061-df43ad133f62",
+            "createdAt": "2025-04-19T08:21:40.615650Z",
+            "amount": 1722,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 63,
+        "DocData": {
+            "type": "contract",
+            "documentId": "5ccf152e-a1bb-4685-9a41-73bd0bb75286",
+            "createdAt": "2025-04-19T08:21:40.615661Z",
+            "amount": 9577,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 64,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "d7965dc7-eb0c-4846-ae48-1d98994e88c2",
+            "createdAt": "2025-04-19T08:21:40.615680Z",
+            "amount": 8624,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 65,
+        "DocData": {
+            "type": "statement",
+            "documentId": "73f5beaa-1a67-4bc8-bc5f-c5b57601d666",
+            "createdAt": "2025-04-19T08:21:40.615699Z",
+            "amount": 6072,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 66,
+        "DocData": {
+            "type": "contract",
+            "documentId": "14ee544e-428e-48e5-8491-1e7af7c1af31",
+            "createdAt": "2025-04-19T08:21:40.615735Z",
+            "amount": 4182,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 67,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "9c1b7409-aa8e-47bb-958c-df1d7f410c4d",
+            "createdAt": "2025-04-19T08:21:40.615751Z",
+            "amount": 9865,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 68,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "c56e4cdc-b5f9-4e47-8f3f-e73b6f0a418f",
+            "createdAt": "2025-04-19T08:21:40.615764Z",
+            "amount": 7501,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 69,
+        "DocData": {
+            "type": "contract",
+            "documentId": "7937bee2-59ad-4bac-bc32-4fa71b81bea4",
+            "createdAt": "2025-04-19T08:21:40.615778Z",
+            "amount": 9742,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 70,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "fb8fe1fb-9a29-406e-89ea-94c9b08a8fd0",
+            "createdAt": "2025-04-19T08:21:40.615826Z",
+            "amount": 5378,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 71,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "f0164e96-8855-4859-baa3-7b3f388ac67f",
+            "createdAt": "2025-04-19T08:21:40.615856Z",
+            "amount": 9012,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 72,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "905bebad-6193-473d-8a65-a14eb27c7f43",
+            "createdAt": "2025-04-19T08:21:40.615866Z",
+            "amount": 9490,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 73,
+        "DocData": {
+            "type": "report",
+            "documentId": "2364a7ea-e4bb-4876-a87d-fd617c96b051",
+            "createdAt": "2025-04-19T08:21:40.615876Z",
+            "amount": 8482,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 74,
+        "DocData": {
+            "type": "contract",
+            "documentId": "3e23f5c1-b368-4b88-8361-f858e00cd747",
+            "createdAt": "2025-04-19T08:21:40.615895Z",
+            "amount": 5368,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 75,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "3423ea30-4214-422c-9ca7-de0194bbee13",
+            "createdAt": "2025-04-19T08:21:40.615925Z",
+            "amount": 2366,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 76,
+        "DocData": {
+            "type": "contract",
+            "documentId": "0cbc08fd-f84a-4991-85ed-8f524c0ac704",
+            "createdAt": "2025-04-19T08:21:40.615938Z",
+            "amount": 2322,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 77,
+        "DocData": {
+            "type": "contract",
+            "documentId": "9c08674c-78e2-404d-80a5-5156703e5651",
+            "createdAt": "2025-04-19T08:21:40.615953Z",
+            "amount": 7608,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 78,
+        "DocData": {
+            "type": "contract",
+            "documentId": "338df6fb-53e4-44ce-8bee-4fa0e66e520f",
+            "createdAt": "2025-04-19T08:21:40.615982Z",
+            "amount": 1747,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 79,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "806d8b6e-8234-4fe5-accd-0da051a0f998",
+            "createdAt": "2025-04-19T08:21:40.615995Z",
+            "amount": 3345,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 80,
+        "DocData": {
+            "type": "report",
+            "documentId": "45ee1b7e-6df4-4ff8-bd0a-87bd8957cac8",
+            "createdAt": "2025-04-19T08:21:40.616009Z",
+            "amount": 582,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 81,
+        "DocData": {
+            "type": "contract",
+            "documentId": "cf82853b-870a-4865-b5bf-4bbed03a20de",
+            "createdAt": "2025-04-19T08:21:40.616024Z",
+            "amount": 4172,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 82,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "ad5496ac-8c5b-475a-935a-98f61abdbf58",
+            "createdAt": "2025-04-19T08:21:40.616039Z",
+            "amount": 3871,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 83,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "9f80e959-cf79-4d35-a464-b2a78f0c5f40",
+            "createdAt": "2025-04-19T08:21:40.616053Z",
+            "amount": 6995,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 84,
+        "DocData": {
+            "type": "report",
+            "documentId": "b5bffcbd-f583-4335-9fc6-f9600bdfb29e",
+            "createdAt": "2025-04-19T08:21:40.616063Z",
+            "amount": 3469,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 85,
+        "DocData": {
+            "type": "statement",
+            "documentId": "c0ea9f9a-83e0-4491-ac4a-edc1589a68bb",
+            "createdAt": "2025-04-19T08:21:40.616072Z",
+            "amount": 6823,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 86,
+        "DocData": {
+            "type": "report",
+            "documentId": "fd769ee8-f3f5-40f4-8d9e-508f70b1139b",
+            "createdAt": "2025-04-19T08:21:40.616081Z",
+            "amount": 7542,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 87,
+        "DocData": {
+            "type": "contract",
+            "documentId": "755afdef-c5a1-42b5-93c3-2f33a21c9288",
+            "createdAt": "2025-04-19T08:21:40.616091Z",
+            "amount": 581,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 88,
+        "DocData": {
+            "type": "contract",
+            "documentId": "5cd05210-0c6f-4801-b885-5104d6cee264",
+            "createdAt": "2025-04-19T08:21:40.616105Z",
+            "amount": 9760,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 89,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "f3400605-9568-4490-a7a3-b819ad508654",
+            "createdAt": "2025-04-19T08:21:40.616140Z",
+            "amount": 4327,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 90,
+        "DocData": {
+            "type": "contract",
+            "documentId": "da0d3b29-53b9-4b3f-8625-c2833ecab69d",
+            "createdAt": "2025-04-19T08:21:40.616152Z",
+            "amount": 1721,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 91,
+        "DocData": {
+            "type": "report",
+            "documentId": "b725d9e3-7906-40c1-9ac8-992a590077aa",
+            "createdAt": "2025-04-19T08:21:40.616161Z",
+            "amount": 9807,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 92,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "5f672db8-a496-4203-a902-682a46d843ce",
+            "createdAt": "2025-04-19T08:21:40.616170Z",
+            "amount": 9975,
+            "currency": "USD",
+            "approved": true
+        }
+    },
+    {
+        "Id": 93,
+        "DocData": {
+            "type": "report",
+            "documentId": "8dbcbe2b-ae2e-4439-a20a-1b048322ff5f",
+            "createdAt": "2025-04-19T08:21:40.616180Z",
+            "amount": 7646,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 94,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "4c556266-3d1e-4c9a-8a55-a3dea5ac84ed",
+            "createdAt": "2025-04-19T08:21:40.616189Z",
+            "amount": 7365,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 95,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "210f7be4-9e80-4e75-96c4-db9d7f125445",
+            "createdAt": "2025-04-19T08:21:40.616213Z",
+            "amount": 6488,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 96,
+        "DocData": {
+            "type": "report",
+            "documentId": "5e68041e-980d-4e94-9a63-005623e711db",
+            "createdAt": "2025-04-19T08:21:40.616236Z",
+            "amount": 1306,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 97,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "af2a27f6-6e33-4f02-8447-2c539e819634",
+            "createdAt": "2025-04-19T08:21:40.616264Z",
+            "amount": 5352,
+            "currency": "USD",
+            "approved": false
+        }
+    },
+    {
+        "Id": 98,
+        "DocData": {
+            "type": "invoice",
+            "documentId": "e2018215-b70e-4b2e-a8c6-38a17f8feccd",
+            "createdAt": "2025-04-19T08:21:40.616278Z",
+            "amount": 7604,
+            "currency": "EUR",
+            "approved": false
+        }
+    },
+    {
+        "Id": 99,
+        "DocData": {
+            "type": "statement",
+            "documentId": "1741ac17-bee7-41d5-84ee-937aa29f1e88",
+            "createdAt": "2025-04-19T08:21:40.616299Z",
+            "amount": 3678,
+            "currency": "EUR",
+            "approved": true
+        }
+    },
+    {
+        "Id": 100,
+        "DocData": {
+            "type": "receipt",
+            "documentId": "f38d8a44-8178-4982-ab72-6d01d2407823",
+            "createdAt": "2025-04-19T08:21:40.616309Z",
+            "amount": 5603,
+            "currency": "EUR",
+            "approved": true
+        }
+    }
+]

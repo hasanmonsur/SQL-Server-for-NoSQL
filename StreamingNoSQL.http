@@ -1,0 +1,6 @@
+@StreamingNoSQL_HostAddress = http://localhost:5241
+
+GET {{StreamingNoSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
